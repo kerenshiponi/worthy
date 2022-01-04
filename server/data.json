@@ -1,0 +1,20 @@
+[
+{"cut": "Excellent", "weight": 2.3, "color": "D", "clarity": "F", "price": 100000},
+{"cut": "Very Good", "weight": 0.6, "color": "E", "clarity": "IF", "price": 2000},
+{"cut": "Good", "weight": 1.5, "color": "F", "clarity": "VVS1", "price": 30000},
+{"cut": "Good", "weight": 0.4, "color": "G", "clarity": "VVS2", "price": 1500},
+{"cut": "Fair", "weight": 1.2, "color": "H", "clarity": "VS1", "price": 10000},
+{"cut": "Excellent", "weight": 2.86, "color": "I", "clarity": "VS2", "price": 90000},
+{"cut": "Very Good", "weight": 3.2, "color": "J", "clarity": "SI1", "price": 20000},
+{"cut": "Good", "weight": 1.1, "color": "K", "clarity": "SI2", "price": 10000},
+{"cut": "Good", "weight": 0.8, "color": "L", "clarity": "I1", "price": 3000},
+{"cut": "Fair", "weight": 1.3, "color": "M", "clarity": "F", "price": 2000},
+{"cut": "Excellent", "weight": 0.5, "color": "H", "clarity": "I1", "price": 3000},
+{"cut": "Good", "weight": 0.4, "color": "G", "clarity": "IF", "price": 1500},
+{"cut": "Very Good", "weight": 2.0, "color": "M", "clarity": "F", "price": 150000},
+{"cut": "Good", "weight": 3.0, "color": "K", "clarity": "VVS2", "price": 200000},
+{"cut": "Fair", "weight": 1.0, "color": "D", "clarity": "VVS1", "price": 50000},
+{"cut": "Excellent", "weight": 4.0, "color": "E", "clarity": "VVS2", "price": 300000},
+{"cut": "Good", "weight": 0.8, "color": "M", "clarity": "SI1", "price": 4000},
+{"cut": "Very Good", "weight": 1.6, "color": "F", "clarity": "SI2", "price": 24000}
+]

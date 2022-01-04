@@ -1,0 +1,55 @@
+h1 {
+  font-family: Lato;
+  text-align: center;
+}
+h3,
+h4,
+p {
+  font-family: Lato;
+  margin-left: 20%;
+}
+
+
+button {
+  padding: 10px;
+  margin: 60px 44%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 60%;
+  height: 15px;
+  margin-left: 20%;
+  border-radius: 5px;   
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+ul {
+  padding-inline-start: 6px;
+  margin-left: 20%;
+
+}
+
+li.cutcat {
+  display: inline;
+  margin-right: 18.6%;
+}
+
+li.colorcat {
+  display: inline;
+  margin-right: 7.3%;
+}
+
+li.claritycat {
+  display: inline;
+  margin-right: 7.7%;
+  font-size: 65%;
+}
+
+li.selected {
+  color: blue;
+}
